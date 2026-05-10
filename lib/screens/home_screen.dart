@@ -197,3 +197,13 @@ class HomeScreen extends StatelessWidget {
     );
   }
 }
+
+@Preview()
+Widget previewHomeScreen() {
+  return MaterialApp(
+    home: ChangeNotifierProvider(
+      create: (context) => EntriesNotifier(),
+      child: const HomeScreen(),
+    ),
+  );
+}
