@@ -2,6 +2,12 @@
 
 A beautiful, cross-platform journaling application built with Flutter to help you document and organize life events across key life areas: Health, Work, and Relationships. Capture your moments, track your progress, and weave your unique life story.
 
+
+<img width="720" height="1560" alt="Screenshot_20260513-220235" src="https://github.com/user-attachments/assets/7dd27f0a-ca93-4f3c-b3b0-ef220fc863a5" />
+<img width="720" height="1560" alt="Screenshot_20260513-220312" src="https://github.com/user-attachments/assets/01e1114f-6e76-4496-9a85-8b578c8ac038" />
+<img width="720" height="1560" alt="Screenshot_20260513-220242" src="https://github.com/user-attachments/assets/c2deefc5-974c-46ac-b672-db007a31e539" />
+
+
 ## ✨ Features
 
 - **Create & Manage Entries**: Write, edit, and organize your journal entries with ease
@@ -87,10 +93,7 @@ lib/
 |----------|--------|-------|
 | Android  | ✅ Supported | API level 21+ |
 | iOS      | ✅ Supported | iOS 11.0+ |
-| macOS    | ✅ Supported | macOS 10.11+ |
-| Windows  | ✅ Supported | Windows 7+ |
-| Linux    | ✅ Supported | glibc 2.17+ |
-| Web      | ✅ Supported | Modern browsers |
+
 
 ## 📝 Usage
 
